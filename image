@@ -1,0 +1,14 @@
+from PIL import Image
+
+# Load images
+base_image = Image.open("/Users/mintukumar/Desktop/IMG_0038.jpeg").convert("RGB")
+overlay_image = Image.open("/Users/mintukumar/Desktop/IMG_20221211_212434_682.jpg").convert("RGB")
+
+# Resize overlay image to match base image
+overlay_image_resized = overlay_image.resize(base_image.size)
+
+# Blend images (adjust alpha for different opacity)
+blended_image = Image.blend(base_image, overlay_image_resized, alpha=0.5)
+
+# Save the result
+blended_image.save("output.jpg")
