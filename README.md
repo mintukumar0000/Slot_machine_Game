@@ -38,7 +38,7 @@
 <h2>🛠️ Installation & Setup</h2>
 <ol>
   <li><strong>Clone the repository:</strong>
-    <pre><code>git clone https://github.com/yourusername/slot-machine-game.git</code></pre>
+    <pre><code>git clone https://github.com/mintukumar0000/slot-machine-game.git</code></pre>
   </li>
   <li><strong>Navigate to the project folder:</strong>
     <pre><code>cd slot-machine-game</code></pre>
