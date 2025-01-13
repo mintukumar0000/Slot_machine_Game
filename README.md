@@ -5,7 +5,7 @@
 
 ---
 
-<h2>🎮 How It Works</h2>
+<h2>🎮 How It Works?</h2>
 <ul>
   <li><strong>Objective:</strong> Spin the slot machine reels and try to align the symbols to win!</li>
   <li><strong>Starting Balance:</strong> Players begin with an initial balance (e.g., $100).</li>
