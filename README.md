@@ -5,7 +5,7 @@
 
 ---
 
-<h2>🎮 How It Works</h2>
+<h2>🎮 How It Works?</h2>
 <ul>
   <li><strong>Objective:</strong> Spin the slot machine reels and try to align the symbols to win!</li>
   <li><strong>Starting Balance:</strong> Players begin with an initial balance (e.g., $100).</li>
@@ -17,7 +17,7 @@
 
 ---
 
-<h2>✨ Features</h2>
+<h2>✨ Features - </h2>
 <ul>
   <li>🎲 <strong>Realistic Gameplay:</strong> Simulates a real casino slot machine with a betting system.</li>
   <li>🎰 <strong>Randomized Outcomes:</strong> Uses Python's <code>random</code> module for generating fair results.</li>
