@@ -28,7 +28,7 @@
 
 ---
 
-<h2>🖥️ Screenshot</h2>
+<h2>🖥️ Screenshot.</h2>
 <p align="center">
   <img src="./screenshot.png" alt="Slot Machine Game Screenshot" width="600" />
 </p>
