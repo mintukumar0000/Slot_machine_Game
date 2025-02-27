@@ -17,7 +17,7 @@
 
 ---
 
-<h2>✨ Features - </h2>
+<h2>✨ Features </h2>
 <ul>
   <li>🎲 <strong>Realistic Gameplay:</strong> Simulates a real casino slot machine with a betting system.</li>
   <li>🎰 <strong>Randomized Outcomes:</strong> Uses Python's <code>random</code> module for generating fair results.</li>
@@ -28,7 +28,7 @@
 
 ---
 
-<h2>🖥️ Screenshot.</h2>
+<h2>🖥️ Screenshot</h2>
 <p align="center">
   <img src="./screenshot.png" alt="Slot Machine Game Screenshot" width="600" />
 </p>
